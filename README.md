@@ -1,2 +1,3 @@
 # IYL-200
- Material relacionado a la materia
+ Materia: Informatica y Laboratorio II
+ Docente: By ERIK
