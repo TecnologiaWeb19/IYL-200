@@ -20,7 +20,11 @@ class Ejercicio_1
     public static void main (String[] Info)throws IOException
     {
 	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-	
+	System.out.print("La media es: "+Ejercicio_1());        
+    }
+    
+    //Funcion
+    public static int Ejercicio_1(){
 	System.out.println("*****Ejercicio 1*****");
 	System.out.println("Hallar la media de cuatro numeros");
 	
@@ -38,5 +42,11 @@ class Ejercicio_1
 	media = (valorA + valorB + valorC + valorD) / 4;
 	
 	System.out.println ("La Media es: " + media);
+	return media;
     }
+    
+    //procedimiento
+    //public static void Ejericio_2(){
+    
+    //}
 }

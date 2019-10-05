@@ -1,0 +1,12 @@
+CREACION DE PROYECTOS CON NETBEANS
+==================================
+
+1. Abrir el programa (NETBEANS)
+2. Creacion de proyecto
+    2.1 File
+    2.2 New Project
+    2.3. Seleccionar el tipo de proyecto (No tocar nada) next
+    2.4 Asignar un nombre
+    2.5 Elegir la ubicacion (no tocar)
+    2.6 Finish (terminar)
+    
