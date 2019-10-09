@@ -1,0 +1,58 @@
+1 Unidad
+
+PROGRAMACION ORIENTADA A OBJETOS
+===============================
+
+La programacion orientada a objetos es un concepto de programacion 
+que funciona segun el principio de los objetos, son la parte mas importante
+de su programa.
+Permite a los usuarios crear los objetos que desean y luego crear metodos para 
+manejar esos objetos, manipular estos objetps para obtener resultados de POO.
+programacion orienta a objetos, popularmente conocidas como OOP (ingles), 
+POO (español), y se utiliza en el lenguaje de programacion moderno (JAVA).
+
+1.1. Objeto:
+    Un objeto se puede definir como una instancia de una clase, puede haber
+    multiples instancia de un objeto en un programa.
+    Un objeto contiene tanto los datos como la funciona, que opera en los datos.
+    Ejemplos:
+        Silla, Bicicleta, Marcador, pluma, mesa, automovil, etc.
+
+1.2. Clase:
+    la clase es un grupo de entidades similares, es solo un componente logico
+     y no la entidad fisica.
+    Una clase denota una serie de cualidades.
+    Una clase es un modelo.
+1.3. Herencia
+    La Herencia es un concepto POO en el que un objeto adquiere las propiedades,
+    y el comportamiento del objeto principal.
+    Esta creando una relacion padre - hijo, entre dos clases.
+    Ofrece un mecanismo robusto y natural para organizar y estructurar cualquier 
+    software.
+1.4. Polimorfismo
+    El Polimorfismo se refiere a la capacidad de una variable,
+     objeto o funcion para tomar multiples formas.
+1.5. Abstraccion
+Una Abstraccion es un acto de representacion de caracteristicas 
+esenciales sin incluir detalles de fondo.
+Es una tecnica de creacion de un nuevo tipo de datos que se adecua para una aplicacion
+especifica.
+1.6. Encapsulamiento:
+La encapsulacion es una tecnica POO, para envolver los datos y codigos. 
+En este concepto POOs, las variables de una clase siempre estan ocultas
+de otras clases.
+Solo se puede acceder usando los metodos de su clase actual.
+
+Investigar
+=========
+1 Tipo de datos primitivos
+2 Modificadores de acceso en java (public, private, protected)
+3 Asosiacion, Agregacion, Composicion
+
+
+Funcion y Procedimiento
+=====================
+Es un sub programa y/o modulos
+Funcion-> Se caracteriza por tener varios argumentos y una unica salida.
+Procedimiento -> Se caracteriza por tener varios argumentos y varias salidas.
+Las Entradas son conocidas como ARGUMENTOS y/o PARAMETROS
